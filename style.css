@@ -1,16 +1,19 @@
 h1{
-	color: #F9E784;
+	color: #191919;
 	
 }
 h2, h3{
-	color: #F9E784;
+	color: #2F2F2F;
 	font-size: 23px
 }
 p{
-	color: #F9E784;
+	color: #2F2F2F;
 	font-size: 19px
 }
 body{
-	background-color: #B6D094;
+	background-color: #9AA0A8;
 	font-family: 'PT Serif', serif;
+}
+img{
+	border: 7px solid #2F2F2F
 }
