@@ -1,5 +1,6 @@
 h1{
 	color: #191919;
+	text-align: center;
 	
 }
 h2, h3{
@@ -16,4 +17,9 @@ body{
 }
 img{
 	border: 7px solid #2F2F2F
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
